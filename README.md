@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TouheedNaveed
-- 👀 I’m interested in c++,mysql,python
-- 🌱 I’m currently learning c++,mysql,python
+- 👀 I’m interested in web development (MERN Stack)&(Full Stack).
+- 🌱 I’m currently learning HTML,CSS,JS, Express Js,React Js, Mongo DB and Node Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
